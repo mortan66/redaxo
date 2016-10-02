@@ -1,7 +1,7 @@
 REDAXO CMS
 ==========
 
-*Einfach, flexibel, sinnvoll!*
+*Einfach, flexibel, sinnvoll!!*
 
 [www.redaxo.org](http://www.redaxo.org) | [GitBook](http://doku.redaxo.sioweb.de/5.0/advanced/) | [Api Doc](http://www.redaxo.org/docs/)
 
